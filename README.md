@@ -12,5 +12,6 @@ CDN Hosted with Telegram bot as the panel.
 
 ## How to Setup
 - Download and extract this mf, or you can just clone this repository
+- Put your bot token inside from the index.js file
 - Do ```npm install``` in your command prompt/terminal
 - ```node index.js```
